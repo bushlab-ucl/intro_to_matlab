@@ -1,3 +1,3 @@
-# Overview
+# Introduction to Matlab
 
 In the first lecture, I will briefly describe what Matlab is and why you might want to use it; introduce you to each different window of the Matlab desktop; show you how to compute sums in the command window; introduce you to several common types of variable - including vectors and matrices, strings, cell, structures and logical arrays - and show you how to create and access those variables in the workspace; demonstrate the use of the variable editor and command history; describe some common built in functions; and, finally, briefly outline how to access and make use of the extensive help documentation that Matlab offers
