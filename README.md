@@ -3,7 +3,7 @@
 This repository contains lecture materials (slides, video recordings, sample code, practical exercises and solutions) from an "Introduction to Matlab" course, delivered at the UCL Institute of Cognitive Neuroscience in 2020. These lectures do not assume any prior knowledge of Matlab or programming experience whatsoever. They were originally written for students on the MSc in Cognitive Neuroscience, but are suitable for both undergraduate and postgraduate students in Psychology, Neuroscience, or related disciplines.  
 
 There are six lectures:  
-- Introduction to Matlab
+- [Introduction to Matlab](Lecture 1)
 - Basics of Programming
 - Importing and Handling Data
 - Plotting
